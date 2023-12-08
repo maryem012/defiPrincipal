@@ -1,0 +1,211 @@
+{
+  "title": "Climate Change Quiz",
+  "showProgressBar": "bottom",
+  "pages": [
+    {
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "question1",
+          "title": "Quel est le gaz à effet de serre le plus important ?",
+          "choices": [
+            "Le méthane",
+            "L'ozone",
+            "Le dioxyde de carbone",
+            "L'eau"
+          ],
+          "correctAnswer": "Le dioxyde de carbone"
+        },
+        {
+          "type": "radiogroup",
+          "name": "question2",
+          "title": "Quel est l'objectif du protocole de Kyoto ?",
+          "choices": [
+            "Réduire les émissions de gaz à effet de serre de 20% par rapport aux niveaux de 1990",
+            "Réduire les émissions de gaz à effet de serre de 5% par rapport aux niveaux de 1990",
+            "Réduire les émissions de gaz à effet de serre de 30% par rapport aux niveaux de 1990",
+            "Réduire les émissions de gaz à effet de serre de 40% par rapport aux niveaux de 1990"
+          ],
+          "correctAnswer": "Réduire les émissions de gaz à effet de serre de 5% par rapport aux niveaux de 1990"
+        },
+        {
+          "type": "radiogroup",
+          "name": "question3",
+          "title": "Quelle est la différence entre le réchauffement climatique et le changement climatique ?",
+          "choices": [
+            "Le réchauffement climatique est l'augmentation de la température moyenne de la Terre, tandis que le changement climatique est l'ensemble des modifications qui affectent le climat de la Terre",
+            "Le réchauffement climatique est une conséquence du changement climatique, tandis que le changement climatique est une cause du réchauffement climatique",
+            "Le réchauffement climatique et le changement climatique sont des synonymes",
+            "Le réchauffement climatique est causé par l'homme, tandis que le changement climatique est causé par des facteurs naturels"
+          ],
+          "correctAnswer": "Le réchauffement climatique est l'augmentation de la température moyenne de la Terre, tandis que le changement climatique est l'ensemble des modifications qui affectent le climat de la Terre"
+        },
+        {
+          "type": "radiogroup",
+          "name": "question4",
+          "title": "Quel est l'objectif de l'Accord de Paris ?",
+          "choices": [
+            "Maintenir l'augmentation de la température moyenne de la Terre bien en deçà de 2°C par rapport aux niveaux préindustriels, et viser à limiter cette augmentation à 1,5°C",
+            "Réduire les émissions de gaz à effet de serre de 50% par rapport aux niveaux de 1990",
+            "Réduire les émissions de gaz à effet de serre de 75% par rapport aux niveaux de 1990",
+            "Réduire les émissions de gaz à effet de serre de 95% par rapport aux niveaux de 1990"
+          ],
+          "correctAnswer": "Maintenir l'augmentation de la température moyenne de la Terre bien en deçà de 2°C par rapport aux niveaux préindustriels, et viser à limiter cette augmentation à 1,5°C"
+        },
+        {
+          "type": "checkbox",
+          "name": "question5",
+          "title": "Quels sont les principaux facteurs qui contribuent au changement climatique ?",
+          "choices": [
+            "La combustion de combustibles fossiles",
+            "La déforestation",
+            "L'agriculture intensive",
+            "L'industrie"
+          ],
+          "correctAnswer": ["La combustion de combustibles fossiles", "La déforestation", "L'agriculture intensive", "L'industrie"]
+        },
+        {
+          "type": "radiogroup",
+          "name": "question6",
+          "title": "Que signifie l'expression « empreinte carbone » ?",
+          "choices": [
+            "La quantité de gaz à effet de serre émise par une activité humaine",
+            "La quantité de déchets générés par une activité humaine",
+            "La quantité d'eau consommée par une activité humaine",
+            "La quantité d'énergie consommée par une activité humaine"
+          ],
+          "correctAnswer": "La quantité de gaz à effet de serre émise par une activité humaine"
+        },
+        {
+          "type": "checkbox",
+          "name": "question7",
+          "title": "Quelles sont les actions que nous pouvons prendre individuellement pour réduire notre empreinte carbone ?",
+          "choices": [
+            "Se déplacer à pied, en vélo ou en transports en commun",
+            "Réduire notre consommation d'énergie",
+            "Consommer moins de viande et de produits laitiers",
+            "Acheter des produits locaux et de saison"
+          ],
+          "correctAnswer": [
+            "Se déplacer à pied, en vélo ou en transports en commun",
+            "Réduire notre consommation d'énergie",
+            "Consommer moins de viande et de produits laitiers",
+            "Acheter des produits locaux et de saison"
+          ]
+        },
+        {
+          "type": "checkbox",
+          "name": "question8",
+          "title": "Quelles sont les solutions technologiques qui peuvent aider à lutter contre le changement climatique ?",
+          "choices": [
+            "Les énergies renouvelables",
+            "Le stockage de l'énergie",
+            "Les technologies de capture et de stockage du carbone",
+            "Les technologies de modification du climat"
+          ],
+          "correctAnswer": ["Les énergies renouvelables", "Le stockage de l'énergie", "Les technologies de capture et de stockage du carbone", "Les technologies de modification du climat"]
+        },
+        {
+          "type": "checkbox",
+          "name": "question9",
+          "title": "Quel rôle jouent les politiques publiques dans la lutte contre le changement climatique ?",
+          "choices": [
+            "Mettre en place des réglementations",
+            "Investir dans la recherche et le développement",
+            "Subventionner les énergies renouvelables et les technologies vertes",
+            "Informer et sensibiliser le public"
+          ],
+          "correctAnswer": ["Mettre en place des réglementations", "Investir dans la recherche et le développement", "Subventionner les énergies renouvelables et les technologies vertes", "Informer et sensibiliser le public"]
+        },
+        {
+          "type": "checkbox",
+          "name": "question10",
+          "title": "Comment le changement climatique affecte-t-il la santé humaine ?",
+          "choices": [
+            "Augmentation des maladies respiratoires et cardiovasculaires",
+            "Augmentation des maladies infectieuses",
+            "Augmentation des cancers de la peau",
+            "Augmentation des dépressions et des troubles anxieux"
+          ],
+          "correctAnswer": ["Augmentation des maladies respiratoires et cardiovasculaires", "Augmentation des maladies infectieuses", "Augmentation des cancers de la peau", "Augmentation des dépressions et des troubles anxieux"]
+        },
+       
+                {
+                  "type": "radiogroup",
+                  "name": "question11",
+                  "title": "Comment le changement climatique affecte-t-il les populations les plus vulnérables ?",
+                  "choices": [
+                    "Les populations des pays en développement",
+                    "Les populations des pays en voie de développement",
+                    "Les populations des pays développés",
+                    "Les populations des pays en transition"
+                  ],
+                  "correctAnswer": "Les populations des pays en développement"
+                },
+                {
+                  "type": "checkbox",
+                  "name": "question12",
+                  "title": "Que peut-on faire pour aider les populations les plus vulnérables face au changement climatique ?",
+                  "choices": [
+                    "Soutenir les initiatives d'adaptation au changement climatique",
+                    "Renforcer les capacités des populations locales",
+                    "Fournir une aide financière et humanitaire",
+                    "Plaider pour des politiques climatiques justes et équitables"
+                  ],
+                  "correctAnswer": [
+                    "Soutenir les initiatives d'adaptation au changement climatique",
+                    "Renforcer les capacités des populations locales",
+                    "Fournir une aide financière et humanitaire",
+                    "Plaider pour des politiques climatiques justes et équitables"
+                  ]
+                },
+                {
+                  "type": "checkbox",
+                  "name": "question13",
+                  "title": "Comment pouvons-nous nous préparer aux impacts du changement climatique ?",
+                  "choices": [
+                    "Améliorer les infrastructures et les systèmes d'alerte précoce",
+                    "Développer des plans d'urgence et d'évacuation",
+                    "Réduire notre vulnérabilité aux impacts du changement climatique",
+                    "Construire des digues et des barrages"
+                  ],
+                  "correctAnswer": [
+                    "Améliorer les infrastructures et les systèmes d'alerte précoce",
+                    "Développer des plans d'urgence et d'évacuation",
+                    "Réduire notre vulnérabilité aux impacts du changement climatique",
+                    "Construire des digues et des barrages"
+                  ]
+                },
+                {
+                  "type": "checkbox",
+                  "name": "question14",
+                  "title": "Quel est le rôle des jeunes dans la lutte contre le changement climatique ?",
+                  "choices": [
+                    "Sensibiliser leur entourage",
+                    "Faire pression sur les décideurs politiques",
+                    "S'engager dans des actions concrètes",
+                    "Investir dans les technologies vertes"
+                  ],
+                  "correctAnswer": [
+                    "Sensibiliser leur entourage",
+                    "Faire pression sur les décideurs politiques",
+                    "S'engager dans des actions concrètes",
+                    "Investir dans les technologies vertes"
+                  ]
+                },
+                {
+                  "type": "radiogroup",
+                  "name": "question15",
+                  "title": "Comment pouvons-nous rester optimistes face au changement climatique ?",
+                  "choices": [
+                    "Se concentrer sur les solutions",
+                    "S'engager dans des actions collectives",
+                    "Croire au pouvoir du changement",
+                    "Ignorer le problème"
+                  ],
+                  "correctAnswer": "Se concentrer sur les solutions"
+                }
+              ]
+            }
+          ]
+        }

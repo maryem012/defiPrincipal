@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+/* Setting the background of the entire page to white */
+body {
+  background-color: white;
+}
+
+/* Or, if you want to set the background of just the component's container */
+.component-container {
+  background-color: white;
+}
